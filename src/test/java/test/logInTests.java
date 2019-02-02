@@ -35,6 +35,11 @@ public class logInTests {
     }
 
     @Test
+    public void sth(){
+
+    }
+
+    @Test
     public void logout(){
 
     }
