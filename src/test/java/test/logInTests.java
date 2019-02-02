@@ -34,8 +34,8 @@ public class logInTests {
     }
 
     @Test
-    public void sth(){
-        System.out.println("sth");
+    public void someone(){
+        System.out.println("someone");
     }
 
     @Test
