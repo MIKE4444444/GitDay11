@@ -31,14 +31,13 @@ public class logInTests {
         driver.findElement(By.id("ctl00_MainContent_password")).sendKeys("Tester");
         Assert.assertEquals(driver.getTitle(),"Web Orders Login");
 
-
     }
 
 
 
     @Test
-    public void sth(){
-
+    public void someone(){
+        System.out.println("someone");
     }
 
     @Test
