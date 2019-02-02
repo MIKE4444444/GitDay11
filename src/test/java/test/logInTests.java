@@ -32,6 +32,10 @@ public class logInTests {
         Assert.assertEquals(driver.getTitle(),"Web Orders Login");
 
 
+    }
+
+    @Test
+    public void logout(){
 
     }
 
