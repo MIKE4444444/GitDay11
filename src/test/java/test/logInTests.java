@@ -40,7 +40,7 @@ public class logInTests {
 
     @Test
     public void logout(){
-
+        System.out.println(" trying to print");
     }
 
 
